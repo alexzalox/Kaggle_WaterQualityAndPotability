@@ -3,8 +3,13 @@ use kaggle dataset to analyze the correlations beetween water quality and potabi
 - Dataset : https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability/data
 
 # Python module
-- pip : `pip install numpy=1.25.0 pandas matplotlib seaborn sklearn lightgbm catboost`
-- conda : `conda install numpy=1.25.0 pandas matplotlib seaborn sklearn lightgbm catboost`
+- pip :
+
+        pip install numpy=1.25.0 pandas matplotlib seaborn sklearn lightgbm catboost
+
+- conda : 
+
+        conda install numpy=1.25.0 pandas matplotlib seaborn sklearn lightgbm catboost
 
 
 # Reference
