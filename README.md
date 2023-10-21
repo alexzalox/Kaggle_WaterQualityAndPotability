@@ -2,7 +2,11 @@
 use kaggle dataset to analyze the correlations beetween water quality and potability.
 - Dataset : https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability/data
 
-# Python module
+# Python 
+## version
+- 3.9
+
+## module
 - pip :
 
         pip install numpy=1.25.0 pandas matplotlib seaborn sklearn lightgbm catboost
